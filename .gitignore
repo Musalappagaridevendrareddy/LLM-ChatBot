@@ -1,0 +1,8 @@
+__pycache__
+.alpackages
+.snapshots
+.env
+user_data.db
+LLMChatBot
+db
+google

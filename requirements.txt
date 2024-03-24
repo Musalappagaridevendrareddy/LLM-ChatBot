@@ -1,0 +1,15 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+beautifulsoup4
+EbookLib==0.18
+odfpy==1.4.1
+whisper==1.1.10
+striprtf==0.0.22
+python_docx==0.8.11
+python_pptx==0.6.21
